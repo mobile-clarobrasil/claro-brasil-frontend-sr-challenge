@@ -10,7 +10,6 @@ Especificações Técnicas
 
 - **Plataforma suportada:** Google Chrome, Firefox, Safari e Opera
 - **Linguagem:** ECMAScript 6 +
-- **Biblioteca:** ReactJs
 - **Dispositivos:** Desktop e Tablets
 - **Idioma de escrita do código:** Inglês
 - **Idiomas do app:** Inglês e Português (deve adaptar-se de acordo com o idioma do device do usuário)
@@ -36,7 +35,7 @@ Requisitos do Produto
  - Layout Responsivo
  - Realizar requisições assíncronamente
  - Persistência local dos filmes favoritados
- - Utilização de um gerenciador de dependências (ex: Yarn, Bower)
+ - Utilização de um gerenciador de dependências (ex: Yarn)
  - Pelo menos um teste automatizado de interface
 
 #### Requisitos desejáveis
@@ -46,7 +45,7 @@ Requisitos do Produto
  - Busca automática (buscar na API conforme o usuário digita)
  - Utilizar arquitetura com controle de estado (ex: Flux, Redux, Redux Saga, Rematch)
  - Testes unitários
- - Integração contínua (Travis)
+ - Integração contínua
 
 ----------
 
